@@ -39,4 +39,4 @@ The goal of this analysis is to build a binary classification model using a neur
 - Accuracy improved with the enhanced architecture, although exact metrics would confirm the extent of improvement.
    
 ### Recommendation:
-Try experimenting with other models such as Random Forest Classifier because Tree-based models handle categorical variables well, are robust to outliers, and can provide feature importance for better business insights.
+Try experimenting with other models such as Random Forest Classifier. Tree-based models handle categorical variables well, are robust to outliers, and can provide feature importance for better business insights.
